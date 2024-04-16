@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\Luishdza\Desktop\Escuela UP\Programacion Avanzada\Codigos\Codigo Comedor Terminado\metodos.h(706,42): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Luishdza\Desktop\Escuela UP\Programacion Avanzada\Codigos\Codigo Comedor Terminado\metodos.h(736,41): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Luishdza\Desktop\Escuela UP\Programacion Avanzada\Codigos\Codigo Comedor Terminado\metodos.h(785,42): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Luishdza\Desktop\Escuela UP\Programacion Avanzada\Codigos\Codigo Comedor Terminado\metodos.h(815,41): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Luishdza\Desktop\Escuela UP\Programacion Avanzada\Codigos\Codigo Comedor Terminado\metodos.h(976,69): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Luishdza\Desktop\Escuela UP\Programacion Avanzada\Codigos\Codigo Comedor Terminado\metodos.h(993,66): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Luishdza\Desktop\Escuela UP\Programacion Avanzada\Codigos\Codigo Comedor Terminado\metodos.h(996,44): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Luishdza\Desktop\Escuela UP\Programacion Avanzada\Codigos\Codigo Comedor Terminado\metodos.h(1219,40): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Luishdza\Desktop\Escuela UP\Programacion Avanzada\Codigos\Codigo Comedor Terminado\Source.cpp(172,47): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Luishdza\Desktop\Escuela UP\Programacion Avanzada\Codigos\Codigo Comedor Terminado\Source.cpp(183,47): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Luishdza\Desktop\Escuela UP\Programacion Avanzada\Codigos\Codigo Comedor Terminado\Source.cpp(205,47): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\Luishdza\Desktop\Escuela UP\Programacion Avanzada\Codigos\Codigo Comedor Terminado\Source.cpp(216,46): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Codigo Comedor Terminado.vcxproj -> C:\Users\Luishdza\Desktop\Escuela UP\Programacion Avanzada\Codigos\Codigo Comedor Terminado\x64\Debug\Codigo Comedor Terminado.exe
